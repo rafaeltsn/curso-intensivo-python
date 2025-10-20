@@ -44,3 +44,37 @@ Estudar Python de forma prática, desenvolvendo pequenos scripts, resolvendo exe
 
 ```bash
 git clone https://github.com/rafaeltsn/curso-intensivo-python.git
+
+
+🛠️ Requisitos
+
+Python 3.10 ou superior
+
+(Opcional) Virtualenv
+
+Bibliotecas para os projetos:
+
+pygame
+
+matplotlib
+
+Django
+
+🚀 Sobre o livro
+
+Este repositório é baseado no livro:
+
+Curso Intensivo de Python
+Autor: Eric Matthes
+Editora: Novatec
+ISBN: 9788575225631
+
+🧑‍💻 Autor
+
+Feito por rafaeltsn
+.
+Estudos pessoais com foco em desenvolvimento em Python.
+
+📜 Licença
+
+Este repositório é apenas para fins educacionais. Os exercícios aqui são versões modificadas ou autorais, não cópias exatas do conteúdo do livro.
