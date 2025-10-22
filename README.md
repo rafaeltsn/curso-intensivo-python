@@ -18,10 +18,10 @@ Estudar Python de forma prática, desenvolvendo pequenos scripts, resolvendo exe
 |----------|--------------------------------|------------|
 | 1        | Primeiros passos               | ✅ Feito   |
 | 2        | Variáveis e tipos de dados     | ✅ Feito   |
-| 3        | Listas                         | ⬜ Em andamento |
-| 4        | Trabalhando com listas         | ⬜ Em breve |
-| 5        | If statements                  | ⬜ Em breve |
-| 6        | Dicionários                    | ⬜ Em breve |
+| 3        | Listas                         | ✅ Feito   |
+| 4        | Trabalhando com listas         | ✅ Feito   |
+| 5        | If statements                  | ✅ Feito   |
+| 6        | Dicionários                    | ✅ Feito   |
 | ...      | ...                            | ...        |
 
 > Atualize esta tabela à medida que avança.
